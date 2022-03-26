@@ -1,5 +1,5 @@
 from src import functions
-print("Starting the main script)
+print("Starting the main script")
 
 def main():
     functions.hello_world()
